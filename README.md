@@ -1,4 +1,4 @@
-### Hold up... "ricing"?
+### What Is "rice"?
 
 If the term confuses you, you aren't alone. You're probably thinking, what does rice have to do with computers, at all? Below is the definition of ricing taken from [r/unixporn](https://www.reddit.com/r/unixporn/):
 
